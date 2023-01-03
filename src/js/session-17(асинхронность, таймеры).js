@@ -1,5 +1,5 @@
 // Метод window.setTimeout(callback, delay, args)
-// setTimeout:
+// или просто setTimeout:
 // вызывает определенную функцию через определенное время
 // const logMessage = () => {
 // console.log('лог при вызове callback-функции через 3 секи');

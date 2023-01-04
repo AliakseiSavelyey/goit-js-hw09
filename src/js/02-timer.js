@@ -87,3 +87,4 @@ class Timer {
 const timer = new Timer();
 flatpickr(input, options);
 startBtn.addEventListener('click', () => timer.startTimer());
+
